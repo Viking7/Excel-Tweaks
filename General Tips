@@ -1,0 +1,3 @@
+1.Open Addin Workbook as Normal Workbook 
+  In the VBE, click on 'ThisWorkbook' and press F4 to get to properties Window.
+  In the IsAddin property, choose 'True' to open the Addin File as Addin and choose 'False' to open it as a normal workbook.
